@@ -9,6 +9,8 @@
 
 
 <h1> ✍ Technologies I use </h1>
+
+[![Discord](https://lanyard-profile-readme.vercel.app/api/949621923346796594?hideDiscrim=true)](https://discord.com/users/949621923346796594)
 <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
 
 <h1> :chart_with_upwards_trend: My stats </h1>
@@ -16,3 +18,4 @@
 
 <h1> :gem: My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Spestez&theme=onedark" />
+
