@@ -19,3 +19,4 @@
 <h1> :gem: My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Spestez&theme=onedark" />
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/949621923346796594)](https://discord.com/users/949621923346796594)
