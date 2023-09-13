@@ -19,4 +19,3 @@
 
 <h1> :gem: My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Spestez&theme=onedark" />
-
