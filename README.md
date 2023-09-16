@@ -1,5 +1,4 @@
 <div align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/949621923346796594)](https://discord.com/users/949621923346796594)
 <h1> :wave: Hi, I’m @spestewashere </h1>
   
 <h1> :grey_question: About </h1>
